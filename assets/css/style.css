@@ -4,6 +4,10 @@
     border: none;
 }
 
+body{
+    background-image: url('/assets/images/wall-painting.jpeg');
+}
+
 a{
     text-decoration: none;
     color: rgb(172, 172, 172);
@@ -18,7 +22,7 @@ body{
 /* header style */
 
 h1{
-    color: rgb(131, 131, 131);
+    color: rgb(173, 173, 173);
     text-transform: uppercase;
 }
 
@@ -31,9 +35,18 @@ h1{
 }
 
 #logo{
-    color: rgb(131, 131, 131);
+    color: rgb(173, 173, 173);
     text-align: center;
-    padding-top: 20px ;
+    width: 600px;
+    position: relative;
+    margin: auto;
+    border-radius: 15px;
+    top:30%;
+}
+
+#logo:hover{
+    background-color: rgb(173, 173, 173);
+    color: rgb(0, 0, 100);
 }
 
 
