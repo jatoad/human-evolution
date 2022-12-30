@@ -159,3 +159,23 @@ h1, h2{
     border-radius: 5px;
     margin: 5px;
 }
+
+/* use of tools section */
+
+#stone-tool{
+    width:300px;
+    height:200px;
+    float:right;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+/* running man section */
+
+#running-man{
+    width:300px;
+    height:200px;
+    float:right;
+    border-radius: 5px;
+    margin: 5px;
+}
