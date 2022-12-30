@@ -65,7 +65,7 @@ h1, h2{
 }
 
 .nav:hover{
-    background-color: rgba(140, 140, 140, 0.6);
+    background-color: rgba(150, 150, 150, 0.6);
 }
 
 /* social meadia links */
@@ -81,29 +81,13 @@ h1, h2{
 }
 
 #socials h3{
-    text-transform: uppercase;
+    font-family:Raleway, sans-serif;
 }
 
 .social-icons i{
     font-size: 200%;
     margin-bottom: 2%;
     padding: 5%;
-}
-
-#instaa a:hover{
-    color:black;
-}
-
-#fbook a:hover{
-    color:black;
-}
-
-#twitter a:hover{
-    color:black;
-}
-
-#reddit a:hover{
-    color:black;
 }
 
 /* to top */
@@ -119,12 +103,11 @@ h1, h2{
 }
 
 #top > h3{
-    text-transform: capitalize;
     font-family:Raleway, sans-serif;
 }
 
 #top:hover{
-    background-color: rgba(140, 140, 140, 0.6);
+    background-color: rgba(150, 150, 150, 0.6);
     color:black;
 }
 
@@ -138,10 +121,16 @@ h1, h2{
     padding: 10px;
     overflow: visible;
     float: right;
+    margin: 15px;
 }
 
 .content h2{
    text-align: center;
+   font-size: 200%;
+}
+
+.content p{
+    font-size: 110%;
 }
 
 /* code from W3schools */
@@ -154,6 +143,16 @@ h1, h2{
 
 
 #civilisation{
+    width:300px;
+    height:200px;
+    float:right;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+/* stoned ape section */
+
+#mushroom{
     width:300px;
     height:200px;
     float:right;
