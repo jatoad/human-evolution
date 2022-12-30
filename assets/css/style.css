@@ -68,10 +68,6 @@ h1, h2{
     background-color: rgba(140, 140, 140, 0.6);
 }
 
-.nav:active{
-    background-color: rgba(140, 140, 140, 0.6);
-}
-
 /* social meadia links */
 
 #socials{
@@ -92,6 +88,44 @@ h1, h2{
     font-size: 200%;
     margin-bottom: 2%;
     padding: 5%;
+}
+
+#instaa a:hover{
+    color:black;
+}
+
+#fbook a:hover{
+    color:black;
+}
+
+#twitter a:hover{
+    color:black;
+}
+
+#reddit a:hover{
+    color:black;
+}
+
+/* to top */
+
+#top{
+    position:fixed;
+    float: left;
+    background-color:rgba(255, 255, 255, 0.65);
+    border-radius: 5px;
+    margin-bottom: 90px;
+    text-align: center;
+    padding: 5px ;
+}
+
+#top > h3{
+    text-transform: capitalize;
+    font-family:Raleway, sans-serif;
+}
+
+#top:hover{
+    background-color: rgba(140, 140, 140, 0.6);
+    color:black;
 }
 
 /* overview section */
