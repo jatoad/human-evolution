@@ -8,7 +8,7 @@
 body{
     background-attachment: fixed;
     color: rgb(50, 50, 50);
-    background-image: url('/assets/images/wall-painting.jpeg');
+    background-image: url('assets/images/wall-painting.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
