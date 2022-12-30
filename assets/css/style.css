@@ -90,6 +90,22 @@ h1, h2{
     padding: 5%;
 }
 
+#twitter{
+    color: #00acee;
+}
+
+#fbook{
+    color: #3b5998;
+}
+
+#reddit{
+    color: rgba(255, 86, 0, 1);
+}
+
+#insta{
+    color: rgb(228, 64, 95)
+}
+
 /* to top */
 
 #top{
