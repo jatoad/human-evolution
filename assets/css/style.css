@@ -140,6 +140,7 @@ h1, h2{
     overflow: visible;
     float: right;
     margin-top: 15px;
+    margin-right: 5px;
 }
 
 .content h2{
@@ -200,7 +201,7 @@ h1, h2{
     }
     
     .content{
-        margin: 4px;
+        margin: 5px;
     }
     
     .content h2{
@@ -218,3 +219,43 @@ h1, h2{
 }
 
 /* for screens less than 500px */
+
+@media screen and (max-width: 500px){
+
+    #menu{
+        height: 120px;
+    }
+
+    #logo{
+        font-size: 150%;
+    }
+
+    .nav{
+        font-size: 60%;
+    }
+    
+    .content h2{
+        font-size: 150%;
+    }
+    
+    .content p{
+        font-size: 95%;
+    }
+
+    .img{
+        width: 210px;
+        height: 140px;
+    }
+    
+    #top h3{
+        font-size: 90%;
+    }
+
+    #socials h3{
+        font-size: 90%;
+    }
+
+    .social-icons i{
+        font-size: 160%;
+    }
+}
