@@ -45,6 +45,20 @@ and contrasting colors were chosen to prevent struggle when reading. background 
 - multiple issues fixed with file paths when creating the live site
 - illegal character in image file name removed
 
+## - Credits 
+
+### Images 
+- all images are sourced from [Adobe Stock](https://stock.adobe.com/uk/)
+### Icons 
+- all icons are sourced from [Font Awesome](https://fontawesome.com/)
+### Code
+- code from [W3 Schools](https://www.w3schools.com/) .content::after {
+                                                            content: "";
+                                                            clear: both;
+                                                            display: table;
+                                                     }
+### Fonts 
+- All fonts from [Google Fonts](https://fonts.google.com/)                                                  
 
 
 
