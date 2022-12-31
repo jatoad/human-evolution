@@ -29,9 +29,21 @@ and contrasting colors were chosen to prevent struggle when reading. background 
 ![screen shot of website information boxes](/assets/images/socials.png)
 - Find us section has a fixed position on the screen to enable the user to immediately be able to get in contact. logos colored to their exact company colors so that it is easily recogniseable. section is not too big so that it takes up the space of where the main information is. 
 
+### - Future Additions to the Website
+- I would have liked to add a timeline of human evolution on another page
+
 ## - Testing
 
-I tested the website on 
+- Website was tested on Safari and Chrome and ran with no issues 
+- Styling was adapted throughout different screen sizes to ensure that on all sizes the website was able to be viewed as intended 
+
+### Validating HTML and CSS
+- CSS passed the [W3C jigsaw CSS](https://jigsaw.w3.org/css-validator/) with no issues 
+- HTML passed the [W3C Validator](https://validator.w3.org/) on second attempt after space was removed in image-jpeg file.
+
+### Bug fixes 
+- multiple issues fixed with file paths when creating the live site
+- illegal character in image file name removed
 
 
 
