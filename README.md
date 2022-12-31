@@ -52,7 +52,8 @@ and contrasting colors were chosen to prevent struggle when reading. background 
 ### Icons 
 - all icons are sourced from [Font Awesome](https://fontawesome.com/)
 ### Code
-- code from [W3 Schools](https://www.w3schools.com/) **.content::after {content: "";clear: both;display: table;}**
+- code from [W3 Schools](https://www.w3schools.com/) 
+**.content::after {content: "";clear: both;display: table;}**
 ### Fonts 
 - All fonts from [Google Fonts](https://fonts.google.com/)                                                  
 
