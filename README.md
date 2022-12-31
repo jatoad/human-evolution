@@ -17,12 +17,23 @@ more informations from a range of perspectives and points of view and hopefully 
 
 ![screen shot of website background](/assets/images/background.png)
 - This background adds character to the page, but does not distract from the information as it is not brightly colored 
-and contrasting colors were chosen to prevent struggle when reading.
+and contrasting colors were chosen to prevent struggle when reading. background is stationary so that movement on the screen is reduced, to avoid distracting th euser from the targeted content.
 
 ### - Content Sections
 
 ![screen shot of website information boxes](/assets/images/content.png)
 - All sections formatted to the same structure and color schemes cor continuity and easy reading. same color as the header for further continuity. Images chosen to represent each section 
+
+### - Contact Section
+
+![screen shot of website information boxes](/assets/images/socials.png)
+- Find us section has a fixed position on the screen to enable the user to immediately be able to get in contact. logos colored to their exact company colors so that it is easily recogniseable. section is not too big so that it takes up the space of where the main information is. 
+
+## - Testing
+
+I tested the website on 
+
+
 
 
 
